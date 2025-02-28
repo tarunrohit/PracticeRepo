@@ -64,8 +64,7 @@ button {
     align-items: top;
 }
 
-table{
+table,tr,td,th{
+    border:10px double black;
 
-    border:5px dotted black:#4CAF50;
-    box-shadow:0,0,20px,rgba(0, 0, 0, 0.3);
 }
